@@ -1,6 +1,4 @@
 
-
-
 command =""
 print(''' Welcome.....
          
