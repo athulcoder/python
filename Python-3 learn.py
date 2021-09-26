@@ -57,7 +57,10 @@ quit  -- to quit the Game
 		           else:
 		           	print("Sorry I Couldn't Understand You ....Enter Any Above Command")
 		          		
-		          	
+
+def quit():
+	    while True:
+	    	break		          	
 				
 				
 		
@@ -76,9 +79,6 @@ while True:
 	 	print('Wrong Command, Enter "go" ')
 
 
-def quit():
-	    while True:
-	    	break
 	    
 
 
