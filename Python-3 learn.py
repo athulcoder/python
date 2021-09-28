@@ -1,8 +1,9 @@
-
 command =""
 print(''' Welcome.....
          
         Enter 'go' to start''')
+
+
 def home():
          print('''
          
