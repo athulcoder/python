@@ -4,6 +4,7 @@ display = {
           "Age": age of the person,
           "Father":"Name of Father ",
           "Mother":"Name of Mother "
+          "Address":"person's address"
 }
 
 while True:
