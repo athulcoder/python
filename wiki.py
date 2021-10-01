@@ -5,5 +5,3 @@ print(result)
 
 
 
-
-
