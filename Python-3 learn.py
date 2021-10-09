@@ -79,4 +79,3 @@ while True:
 	 	quit()
 	elif command not in('go','car','quit'):
 	 	print('Wrong Command, Enter "go" ')
-
