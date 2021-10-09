@@ -1,3 +1,4 @@
+# import Wikipedia module
 import wikipedia 
 
 # setting language to hindi 
