@@ -81,8 +81,4 @@ while True:
 	 	print('Wrong Command, Enter "go" ')
 
 
-	    
-
-
-
 	
