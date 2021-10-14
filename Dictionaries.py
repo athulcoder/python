@@ -1,4 +1,3 @@
-
 display = {
           
           "Name":"person-name",
@@ -7,6 +6,7 @@ display = {
           "Mother":"Name of Mother "
           "Address":"person's address"
 }
+
 
 while True:
 	output= input("What U Want : ")
