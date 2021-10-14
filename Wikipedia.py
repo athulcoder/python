@@ -1,6 +1,5 @@
 import wikipedia
 
-
 def search(query):
     result = wikipedia.summary(query, sentences=5)
     print(result)
