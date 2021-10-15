@@ -1,3 +1,4 @@
 import wikipedia
-result = wikipedia.summary("Gandhiji",sentences = 2)
+search =input("Search : ")
+result = wikipedia.summary(search,sentences = 2)
 print(result)
