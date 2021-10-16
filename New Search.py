@@ -7,4 +7,3 @@ wikipedia.set_lang("en")
 # printing the summary 
 print(wikipedia.summary("kerala"))
 
-
