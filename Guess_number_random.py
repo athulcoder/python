@@ -13,7 +13,7 @@ def main():
 # To enter the input (y or n) of the user a varible call again is defined 
 
 		if Guess == secret_number:
-                        print("You Win ....")
+			print("You Win ....")
 			again = input("\n   Do You like to continue[y] or [n] : ")
 # if the input is "y" then it will continue the Game and if the input is "n" then it will break the loop and end the Game 
 			if again =="y":
@@ -22,7 +22,7 @@ def main():
 				break
 			else :
 				print('sorry I didn\'t get you ..')
-		elif  Guess > secret_number :
+		elif  Guess > secret_number:
 			print("The Number is less  than this Number  ")     
 		elif Guess < secret_number:
 			print("The Number is more then this number  ")
