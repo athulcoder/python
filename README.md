@@ -15,3 +15,17 @@ Python was originally created in 1991 by Guido van Rossum </p>
 • Software development <br>
 • System scripting <br>
 • Machine learning </h5>
+
+<h4>Why Python? </h4>
+Python is the programming language that most closely resembles human language. This simpler syntax makes Python easy to learn.
+
+Python emphasizes readability, so the cost of program maintenance is reduced.
+
+Modules and packages encourage program modularity and code reuse.
+
+The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms and can be freely distributed.
+
+There is no compilation step, so the edit-test-debug cycle is incredibly fast.
+
+Debugging Python programs is relatively simple; a bug or bad input will never cause a segmentation fault.
+
