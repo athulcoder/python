@@ -9,6 +9,9 @@ Python was originally created in 1991 by Guido van Rossum </p>
 
 
 
+![1200px-Python-logo-notext svg](https://user-images.githubusercontent.com/88123015/138619307-cc096b47-0cb6-4d41-8452-04e191cd92a5.png)
+
+
 <h4>Main uses of Python: <h4>
 
 <h5>• Server-side web development <br>
