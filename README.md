@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <h1 align = "center">Python </h1>
 <h4> what is python </h4>
 <p>Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
