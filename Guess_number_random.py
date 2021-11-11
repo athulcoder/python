@@ -1,3 +1,4 @@
+
 # import randow module 
 import random
 
@@ -26,7 +27,6 @@ def main():
 			print("The Number is less  than this Number  ")     
 		elif Guess < secret_number:
 			print("The Number is more then this number  ")
-			
 			
 			
 main()
