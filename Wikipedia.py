@@ -1,3 +1,4 @@
+
 import wikipedia
 
 def search(query):
