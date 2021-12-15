@@ -2,6 +2,7 @@
 # import randow module 
 import random
 
+
 #defined a funtion call main
 def main():
 	# defined a variable call number to store the randow number between 1 to 10
