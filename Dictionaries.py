@@ -12,4 +12,3 @@ while True:
 		print(display[output])
 	elif output=="exit":
 		break
-
