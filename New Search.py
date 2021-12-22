@@ -1,6 +1,5 @@
 
-# import Wikipedia module
-import wikipedia 
+# import Wikipedia moduleimport wikipedia 
 
 # setting language to hindi 
 wikipedia.set_lang("en") 
