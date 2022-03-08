@@ -13,5 +13,7 @@ while guess != password :
         print(guess)
 
 print("\n your password is ", guess)
-print("\n thanks for using")
+
+
+print("\n thanks for using.....Bye.....")
 
